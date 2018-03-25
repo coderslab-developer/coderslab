@@ -10,6 +10,6 @@ public class MainController {
 
 	@GetMapping
 	public String loadHomePage() {
-		return "index";
+		return "views/dashboard/index";
 	}
 }
