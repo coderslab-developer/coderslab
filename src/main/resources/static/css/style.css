@@ -1,0 +1,38 @@
+.header-full-width{
+	background : #DDD;
+}
+.header-top{
+	padding: 10px;
+}
+h1.site-logo{
+	margin: 0;
+	padding: 0;
+}
+h1.site-logo a{
+	text-decoration: none;
+}
+.menu-full-width{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.menu-full-width nav{
+	padding: 0;
+	margin: 0;
+}
+#myNavbar{
+	padding: 0px;
+}
+.container-fluid{
+	padding: 0;
+}
+.content-area{
+	padding: 10px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	min-height: 500px;
+}
+.footer-area-full-width{
+	background: #DDD;
+	border-top: 1px solid black;
+	padding: 10px;
+}
